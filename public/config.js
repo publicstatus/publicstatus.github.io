@@ -21,16 +21,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: '',
+      url: ''
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      text: '',
+      url: ''
     },
     {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
+      text: '',
+      url: ''
     },
   ],
 };
